@@ -18,7 +18,7 @@ It lets you keep track of tasks, mark them as completed, and delete them when do
 ## 📸 Screenshots
 
 ![App Screenshot](./src/Components/image1.png)
-(./src/Components/image.png)
+![App Screenshot](./src/Components/image.png)
 
 ---
 
