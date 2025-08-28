@@ -1,0 +1,41 @@
+.main-content{
+    background: #457fca;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5691c8, #457fca);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5691c8, #457fca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 100vh;
+}
+.to-do-content{
+    height: 600px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+}
+.to-do-list-input-main-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+    padding: 10px;
+}
+.to-do-list-input{
+    width: 75%;
+}
+.add-btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.tasks{
+    list-style: none;
+    width: 95%;
+    margin: auto;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.update-task{
+    display: flex;
+    column-gap: 10px;
+}
